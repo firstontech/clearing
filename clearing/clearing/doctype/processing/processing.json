@@ -165,7 +165,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-11-14 01:19:06.304728", 
+ "modified": "2016-11-16 21:14:39.811623", 
  "modified_by": "Administrator", 
  "module": "Clearing", 
  "name": "Processing", 
@@ -236,7 +236,7 @@
    "write": 1
   }
  ], 
- "quick_entry": 1, 
+ "quick_entry": 0, 
  "read_only": 0, 
  "read_only_onload": 0, 
  "sort_field": "modified", 
